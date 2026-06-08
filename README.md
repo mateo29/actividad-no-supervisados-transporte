@@ -32,8 +32,7 @@ py modelo_kmeans_transporte.py
 ```
 
 ## Links de entrega
-Repositorio Git/GitLab: PEGAR_AQUI_EL_LINK_DEL_REPOSITORIO
-
+Repositorio Git/GitLab: https://github.com/mateo29/actividad-no-supervisados-transporte
 Video explicativo: PEGAR_AQUI_EL_LINK_DEL_VIDEO
 
 ## Nota
