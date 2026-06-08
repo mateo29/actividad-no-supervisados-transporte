@@ -1,0 +1,151 @@
+﻿id_registro,ruta,dia_semana,franja_horaria,clima,pasajeros_estimados,frecuencia_buses_min,tiempo_espera_prom_min,retraso_prom_min,ocupacion_promedio_pct,velocidad_prom_kmh,incidentes_reportados,cluster
+1,F28 Portal Americas - Calle 26,miercoles,tarde_pico,soleado,1044,5.07,4.58,7.77,100.0,14.91,0,0
+2,H54 Usme - Las Aguas,viernes,madrugada,soleado,169,8.24,7.65,0.0,24.41,23.66,0,1
+3,G12 Portal Sur - Ricaurte,viernes,mañana_pico,nublado,926,6.15,9.15,5.16,100.0,22.42,3,2
+4,H54 Usme - Las Aguas,jueves,madrugada,soleado,236,8.55,11.56,2.15,30.35,21.26,1,1
+5,F28 Portal Americas - Calle 26,jueves,noche,soleado,433,5.36,6.07,7.81,37.58,18.18,1,1
+6,C15 Portal Suba - Avenida Jimenez,martes,mañana_pico,lluvia,1134,7.06,11.65,14.36,100.0,12.62,0,2
+7,G12 Portal Sur - Ricaurte,sabado,mañana_pico,soleado,580,4.72,5.26,4.9,77.08,8.48,1,0
+8,H54 Usme - Las Aguas,miercoles,noche,soleado,380,8.14,9.25,1.61,41.82,18.34,0,1
+9,C15 Portal Suba - Avenida Jimenez,jueves,tarde_pico,nublado,819,5.41,5.44,5.09,100.0,13.64,0,0
+10,D10 Portal 80 - Universidades,jueves,noche,soleado,377,12.5,18.82,1.03,35.28,24.91,1,1
+11,B23 Portal Norte - Museo Nacional,lunes,mañana_pico,nublado,876,4.0,3.41,6.79,100.0,13.07,0,0
+12,B23 Portal Norte - Museo Nacional,domingo,noche,soleado,280,7.06,7.52,1.8,28.67,22.73,1,1
+13,B23 Portal Norte - Museo Nacional,sabado,mañana_pico,nublado,565,5.08,5.89,7.0,77.29,21.78,0,0
+14,B23 Portal Norte - Museo Nacional,lunes,noche,soleado,279,9.58,10.94,4.78,32.94,24.42,1,1
+15,G12 Portal Sur - Ricaurte,domingo,mañana_pico,soleado,611,10.61,13.18,6.41,79.57,16.66,1,1
+16,B23 Portal Norte - Museo Nacional,martes,noche,lluvia,471,9.71,15.33,3.71,60.7,23.23,2,1
+17,B23 Portal Norte - Museo Nacional,viernes,tarde_valle,soleado,556,10.0,13.44,1.92,69.48,18.63,0,1
+18,C15 Portal Suba - Avenida Jimenez,jueves,mañana_valle,soleado,429,7.86,10.09,4.59,60.63,20.43,0,1
+19,B23 Portal Norte - Museo Nacional,martes,tarde_pico,soleado,882,5.91,5.37,12.18,100.0,24.3,3,2
+20,G12 Portal Sur - Ricaurte,lunes,tarde_pico,soleado,835,3.67,3.57,9.54,100.0,16.9,1,2
+21,G12 Portal Sur - Ricaurte,domingo,tarde_pico,soleado,517,5.06,7.56,3.67,75.63,18.29,0,0
+22,D10 Portal 80 - Universidades,viernes,tarde_pico,nublado,911,3.67,2.11,4.46,100.0,15.99,1,0
+23,B23 Portal Norte - Museo Nacional,jueves,noche,nublado,497,10.0,13.4,4.93,60.53,18.72,1,1
+24,C15 Portal Suba - Avenida Jimenez,viernes,mañana_pico,soleado,957,4.47,4.79,9.47,100.0,18.84,0,0
+25,D10 Portal 80 - Universidades,viernes,tarde_pico,lluvia,1078,3.7,4.92,7.53,100.0,21.43,0,0
+26,H54 Usme - Las Aguas,miercoles,mañana_pico,soleado,620,4.8,6.18,3.98,82.18,12.93,0,0
+27,G12 Portal Sur - Ricaurte,martes,mañana_valle,soleado,461,9.03,11.07,1.25,53.29,25.61,0,1
+28,G12 Portal Sur - Ricaurte,jueves,tarde_pico,nublado,867,4.86,6.43,5.75,100.0,16.21,0,0
+29,D10 Portal 80 - Universidades,lunes,madrugada,soleado,90,9.15,9.38,2.85,10.0,18.44,0,1
+30,F28 Portal Americas - Calle 26,domingo,mañana_pico,soleado,740,6.84,7.5,7.37,91.83,13.18,0,0
+31,H54 Usme - Las Aguas,viernes,mañana_pico,nublado,691,6.79,9.22,8.47,100.0,18.83,0,0
+32,B23 Portal Norte - Museo Nacional,viernes,mañana_valle,nublado,436,3.7,4.42,3.59,51.06,23.14,0,0
+33,F28 Portal Americas - Calle 26,domingo,mañana_valle,soleado,490,10.85,11.86,1.93,57.7,19.55,0,1
+34,H54 Usme - Las Aguas,sabado,mañana_pico,soleado,475,3.7,5.75,5.14,74.71,21.8,0,0
+35,F28 Portal Americas - Calle 26,domingo,tarde_valle,lluvia,388,6.88,11.82,6.01,52.02,19.94,0,1
+36,C15 Portal Suba - Avenida Jimenez,martes,tarde_pico,lluvia,1093,6.36,10.13,12.25,100.0,8.0,1,2
+37,D10 Portal 80 - Universidades,domingo,madrugada,soleado,109,10.7,14.83,0.0,21.74,21.3,0,1
+38,C15 Portal Suba - Avenida Jimenez,viernes,noche,soleado,480,9.74,14.36,2.66,61.76,18.67,0,1
+39,B23 Portal Norte - Museo Nacional,martes,mañana_pico,nublado,831,7.19,6.86,6.39,100.0,11.04,0,0
+40,D10 Portal 80 - Universidades,domingo,tarde_pico,soleado,538,7.01,7.87,4.65,66.79,16.2,0,0
+41,C15 Portal Suba - Avenida Jimenez,miercoles,tarde_valle,soleado,609,8.87,11.41,0.0,72.27,25.66,0,1
+42,B23 Portal Norte - Museo Nacional,miercoles,tarde_pico,lluvia,1066,5.74,7.62,13.04,100.0,16.06,1,2
+43,B23 Portal Norte - Museo Nacional,martes,mañana_valle,lluvia,675,9.61,14.2,5.89,79.56,19.93,0,1
+44,F28 Portal Americas - Calle 26,domingo,tarde_valle,soleado,488,7.64,11.43,7.7,59.69,19.18,0,1
+45,H54 Usme - Las Aguas,viernes,mañana_pico,nublado,767,3.6,3.2,7.27,100.0,18.28,1,0
+46,F28 Portal Americas - Calle 26,lunes,mañana_valle,soleado,698,9.1,10.57,3.21,90.12,26.7,0,1
+47,C15 Portal Suba - Avenida Jimenez,sabado,mañana_pico,nublado,721,3.9,4.92,2.46,95.79,18.54,0,0
+48,C15 Portal Suba - Avenida Jimenez,martes,tarde_pico,nublado,873,3.49,4.29,6.77,100.0,16.16,1,2
+49,C15 Portal Suba - Avenida Jimenez,jueves,mañana_pico,lluvia,1043,2.94,4.53,11.45,100.0,15.99,0,0
+50,G12 Portal Sur - Ricaurte,martes,mañana_valle,lluvia,492,12.08,17.25,5.86,60.13,9.59,0,1
+51,G12 Portal Sur - Ricaurte,viernes,noche,soleado,378,7.71,9.37,0.63,44.71,16.58,1,1
+52,H54 Usme - Las Aguas,viernes,madrugada,nublado,318,7.42,9.54,1.18,42.09,16.67,0,1
+53,G12 Portal Sur - Ricaurte,viernes,mañana_valle,lluvia,491,7.63,9.03,11.19,61.11,23.8,0,1
+54,B23 Portal Norte - Museo Nacional,viernes,noche,lluvia,388,8.73,9.54,5.75,51.56,20.42,0,1
+55,D10 Portal 80 - Universidades,martes,mañana_pico,lluvia,1070,7.25,8.83,10.19,100.0,18.77,1,2
+56,B23 Portal Norte - Museo Nacional,jueves,mañana_pico,soleado,926,4.33,6.22,7.71,100.0,22.03,0,0
+57,F28 Portal Americas - Calle 26,sabado,noche,soleado,373,7.62,10.71,1.59,43.13,24.46,0,1
+58,G12 Portal Sur - Ricaurte,martes,madrugada,nublado,323,8.28,9.44,1.12,35.93,24.25,0,1
+59,C15 Portal Suba - Avenida Jimenez,sabado,mañana_valle,lluvia,384,8.32,12.34,6.09,37.35,21.6,1,1
+60,F28 Portal Americas - Calle 26,lunes,noche,lluvia,548,8.4,12.87,1.61,65.74,19.54,2,1
+61,B23 Portal Norte - Museo Nacional,sabado,tarde_pico,soleado,620,5.85,5.27,7.75,81.43,17.23,0,0
+62,G12 Portal Sur - Ricaurte,martes,mañana_pico,soleado,825,5.22,6.53,7.79,100.0,20.42,0,0
+63,C15 Portal Suba - Avenida Jimenez,lunes,mañana_pico,soleado,787,5.84,5.44,5.44,100.0,21.66,1,0
+64,F28 Portal Americas - Calle 26,jueves,tarde_valle,soleado,667,7.32,7.69,1.06,85.9,28.25,0,1
+65,B23 Portal Norte - Museo Nacional,domingo,mañana_valle,soleado,240,9.36,6.69,0.89,26.18,17.62,0,1
+66,F28 Portal Americas - Calle 26,viernes,noche,soleado,507,7.97,5.72,2.08,61.06,18.49,0,1
+67,F28 Portal Americas - Calle 26,domingo,noche,soleado,385,9.16,11.83,2.02,56.45,26.89,0,1
+68,D10 Portal 80 - Universidades,jueves,tarde_pico,nublado,918,4.53,6.36,6.07,100.0,19.91,0,0
+69,C15 Portal Suba - Avenida Jimenez,lunes,noche,soleado,482,11.77,11.1,0.0,55.2,21.14,0,1
+70,B23 Portal Norte - Museo Nacional,sabado,mañana_pico,nublado,551,8.16,12.07,7.74,86.8,24.29,0,1
+71,D10 Portal 80 - Universidades,lunes,mañana_pico,soleado,909,7.01,8.03,7.71,100.0,23.88,0,0
+72,G12 Portal Sur - Ricaurte,domingo,mañana_pico,lluvia,600,3.38,5.65,8.87,76.69,8.0,1,2
+73,C15 Portal Suba - Avenida Jimenez,domingo,madrugada,lluvia,138,8.47,14.7,3.9,14.68,12.34,0,1
+74,C15 Portal Suba - Avenida Jimenez,miercoles,madrugada,nublado,352,9.69,11.1,1.0,41.19,11.48,0,1
+75,B23 Portal Norte - Museo Nacional,viernes,noche,nublado,424,9.38,12.08,5.79,56.54,22.49,1,1
+76,B23 Portal Norte - Museo Nacional,jueves,noche,nublado,230,9.19,9.16,1.32,31.21,20.24,1,1
+77,G12 Portal Sur - Ricaurte,sabado,noche,soleado,262,10.32,12.74,1.1,32.38,18.72,0,1
+78,D10 Portal 80 - Universidades,lunes,mañana_pico,nublado,796,4.77,5.51,0.71,100.0,13.1,2,2
+79,D10 Portal 80 - Universidades,jueves,tarde_pico,nublado,902,5.51,7.67,6.77,100.0,15.01,0,0
+80,D10 Portal 80 - Universidades,lunes,noche,soleado,377,9.63,9.28,1.69,45.28,19.94,0,1
+81,F28 Portal Americas - Calle 26,viernes,mañana_pico,soleado,990,5.37,8.37,6.23,100.0,10.65,1,2
+82,G12 Portal Sur - Ricaurte,domingo,mañana_valle,nublado,181,9.05,8.45,0.0,25.46,20.02,0,1
+83,F28 Portal Americas - Calle 26,miercoles,mañana_pico,soleado,979,6.43,6.97,11.36,100.0,11.89,0,0
+84,F28 Portal Americas - Calle 26,viernes,tarde_pico,soleado,1056,4.95,3.92,8.17,100.0,13.61,1,2
+85,F28 Portal Americas - Calle 26,jueves,mañana_pico,soleado,909,2.0,1.5,3.66,100.0,12.09,1,0
+86,B23 Portal Norte - Museo Nacional,viernes,mañana_pico,soleado,917,4.49,2.15,6.87,100.0,20.21,1,0
+87,C15 Portal Suba - Avenida Jimenez,sabado,tarde_pico,nublado,676,2.31,3.4,7.31,91.95,20.19,0,0
+88,H54 Usme - Las Aguas,jueves,mañana_pico,nublado,560,4.81,5.43,8.43,73.19,13.88,0,0
+89,G12 Portal Sur - Ricaurte,sabado,tarde_pico,lluvia,720,6.81,6.87,12.09,96.58,20.51,0,0
+90,C15 Portal Suba - Avenida Jimenez,domingo,tarde_pico,soleado,677,8.18,6.47,7.17,86.21,17.91,1,2
+91,B23 Portal Norte - Museo Nacional,jueves,tarde_pico,soleado,914,6.81,7.99,6.85,100.0,8.28,1,2
+92,H54 Usme - Las Aguas,domingo,mañana_valle,nublado,324,9.97,14.45,5.26,33.03,25.1,0,1
+93,G12 Portal Sur - Ricaurte,sabado,mañana_pico,soleado,546,4.89,5.13,5.21,86.46,21.25,0,0
+94,G12 Portal Sur - Ricaurte,martes,mañana_pico,soleado,744,3.76,3.09,8.73,100.0,24.44,0,0
+95,D10 Portal 80 - Universidades,martes,madrugada,soleado,265,8.09,10.63,0.85,34.45,22.61,0,1
+96,H54 Usme - Las Aguas,domingo,mañana_pico,nublado,593,5.98,5.69,4.45,88.06,15.43,0,0
+97,F28 Portal Americas - Calle 26,jueves,tarde_pico,soleado,981,2.0,2.13,8.79,100.0,16.86,0,0
+98,G12 Portal Sur - Ricaurte,martes,tarde_valle,lluvia,529,6.64,9.37,9.6,56.2,11.74,2,2
+99,D10 Portal 80 - Universidades,miercoles,mañana_valle,soleado,474,7.89,8.73,1.94,54.22,32.43,0,1
+100,F28 Portal Americas - Calle 26,domingo,tarde_valle,lluvia,554,9.3,11.69,6.87,61.31,18.17,1,1
+101,C15 Portal Suba - Avenida Jimenez,lunes,tarde_valle,soleado,467,6.34,3.24,5.84,57.92,24.91,0,0
+102,B23 Portal Norte - Museo Nacional,viernes,mañana_pico,nublado,759,8.77,9.82,2.91,98.14,14.98,0,0
+103,H54 Usme - Las Aguas,domingo,mañana_valle,soleado,299,10.76,12.55,1.18,37.99,26.66,0,1
+104,D10 Portal 80 - Universidades,jueves,mañana_pico,soleado,812,6.98,7.28,9.33,100.0,21.94,0,0
+105,C15 Portal Suba - Avenida Jimenez,martes,mañana_pico,lluvia,1104,5.22,7.59,13.62,100.0,8.0,2,2
+106,D10 Portal 80 - Universidades,lunes,tarde_pico,lluvia,946,6.82,8.5,12.23,100.0,15.73,0,2
+107,D10 Portal 80 - Universidades,martes,madrugada,lluvia,215,8.89,12.0,7.75,20.78,26.29,0,1
+108,H54 Usme - Las Aguas,jueves,tarde_pico,soleado,800,6.53,6.5,5.43,100.0,15.94,0,0
+109,C15 Portal Suba - Avenida Jimenez,martes,tarde_pico,nublado,932,6.9,7.23,11.36,100.0,17.12,0,0
+110,C15 Portal Suba - Avenida Jimenez,domingo,tarde_valle,lluvia,477,7.89,11.99,8.17,61.17,25.37,0,1
+111,F28 Portal Americas - Calle 26,viernes,madrugada,nublado,259,9.32,12.74,4.99,21.68,22.76,0,1
+112,H54 Usme - Las Aguas,miercoles,mañana_valle,soleado,342,10.67,10.54,2.81,45.07,25.46,1,1
+113,F28 Portal Americas - Calle 26,jueves,noche,lluvia,571,9.78,9.83,6.67,63.75,15.85,0,1
+114,C15 Portal Suba - Avenida Jimenez,martes,tarde_valle,nublado,616,7.59,10.43,3.89,72.66,20.7,1,1
+115,B23 Portal Norte - Museo Nacional,miercoles,noche,nublado,467,9.43,10.68,1.03,53.94,15.26,0,1
+116,F28 Portal Americas - Calle 26,martes,noche,nublado,336,10.15,13.36,5.44,38.89,22.77,0,1
+117,B23 Portal Norte - Museo Nacional,viernes,noche,soleado,296,10.21,10.14,1.95,34.53,18.96,0,1
+118,C15 Portal Suba - Avenida Jimenez,martes,noche,soleado,509,10.8,15.78,3.67,51.08,28.13,0,1
+119,H54 Usme - Las Aguas,viernes,noche,nublado,296,8.87,8.9,4.4,37.24,25.36,0,1
+120,H54 Usme - Las Aguas,miercoles,tarde_pico,lluvia,893,5.08,7.98,12.72,100.0,8.0,1,2
+121,D10 Portal 80 - Universidades,lunes,mañana_pico,soleado,796,6.88,7.09,5.54,97.7,18.87,0,0
+122,C15 Portal Suba - Avenida Jimenez,sabado,mañana_valle,soleado,284,6.36,7.57,3.01,34.86,20.56,1,1
+123,C15 Portal Suba - Avenida Jimenez,viernes,tarde_pico,lluvia,1092,3.88,6.01,9.04,100.0,12.78,1,2
+124,H54 Usme - Las Aguas,viernes,tarde_pico,nublado,750,4.53,5.15,5.58,97.63,19.84,1,0
+125,F28 Portal Americas - Calle 26,domingo,tarde_pico,nublado,722,3.95,3.9,5.39,96.75,13.86,0,0
+126,G12 Portal Sur - Ricaurte,jueves,mañana_pico,soleado,865,5.23,6.07,7.97,100.0,20.83,1,0
+127,F28 Portal Americas - Calle 26,jueves,mañana_pico,soleado,975,5.76,7.13,8.35,100.0,14.35,0,0
+128,C15 Portal Suba - Avenida Jimenez,sabado,tarde_pico,lluvia,709,5.31,7.06,6.5,98.93,19.67,1,2
+129,B23 Portal Norte - Museo Nacional,jueves,tarde_valle,lluvia,695,7.64,7.78,11.12,86.74,22.49,3,2
+130,D10 Portal 80 - Universidades,domingo,mañana_valle,nublado,119,8.75,10.22,0.0,12.86,29.75,2,1
+131,D10 Portal 80 - Universidades,martes,tarde_valle,lluvia,492,8.14,12.53,7.35,66.39,18.95,3,2
+132,H54 Usme - Las Aguas,miercoles,tarde_valle,nublado,481,8.43,7.18,1.71,56.69,20.65,0,1
+133,B23 Portal Norte - Museo Nacional,lunes,mañana_pico,soleado,791,2.81,3.12,2.22,98.75,13.43,2,2
+134,H54 Usme - Las Aguas,miercoles,mañana_pico,soleado,760,8.39,10.52,5.09,99.03,26.1,0,0
+135,B23 Portal Norte - Museo Nacional,sabado,mañana_pico,soleado,600,5.15,6.56,5.86,85.31,9.78,0,0
+136,D10 Portal 80 - Universidades,sabado,mañana_valle,soleado,274,7.4,6.96,0.0,27.11,20.85,0,1
+137,G12 Portal Sur - Ricaurte,viernes,noche,lluvia,449,9.53,13.94,8.96,54.64,22.2,2,1
+138,C15 Portal Suba - Avenida Jimenez,martes,tarde_pico,soleado,1094,4.29,3.64,10.0,100.0,13.12,1,2
+139,C15 Portal Suba - Avenida Jimenez,domingo,madrugada,nublado,132,9.43,5.86,0.0,10.0,28.27,1,1
+140,F28 Portal Americas - Calle 26,viernes,mañana_valle,nublado,428,7.82,9.41,4.61,50.73,21.59,0,1
+141,B23 Portal Norte - Museo Nacional,jueves,mañana_pico,lluvia,810,3.39,6.13,8.96,100.0,12.38,0,0
+142,C15 Portal Suba - Avenida Jimenez,viernes,mañana_pico,soleado,1000,6.08,5.78,10.6,100.0,18.14,0,0
+143,G12 Portal Sur - Ricaurte,miercoles,tarde_pico,lluvia,930,4.68,6.72,10.04,100.0,15.78,1,2
+144,C15 Portal Suba - Avenida Jimenez,miercoles,noche,lluvia,521,9.28,10.07,5.4,49.02,24.99,1,1
+145,G12 Portal Sur - Ricaurte,lunes,noche,soleado,387,8.06,10.99,7.15,45.44,16.2,1,1
+146,G12 Portal Sur - Ricaurte,jueves,mañana_valle,soleado,492,10.22,13.95,0.6,57.89,24.32,0,1
+147,F28 Portal Americas - Calle 26,viernes,tarde_pico,soleado,1026,4.28,6.29,12.43,100.0,19.76,1,2
+148,B23 Portal Norte - Museo Nacional,miercoles,mañana_pico,nublado,783,4.82,5.68,8.32,100.0,22.38,0,0
+149,H54 Usme - Las Aguas,jueves,tarde_pico,soleado,818,5.47,5.48,4.98,100.0,15.67,0,0
+150,F28 Portal Americas - Calle 26,domingo,mañana_valle,soleado,354,7.36,9.75,2.66,39.05,20.36,0,1
